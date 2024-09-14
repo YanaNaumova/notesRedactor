@@ -1,0 +1,29 @@
+.noteItem {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #000000;
+  max-width: 300px;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.noteItem h3,
+.noteItem p {
+  width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.btn > button {
+  padding: 5px;
+  border-radius: 5px;
+}
