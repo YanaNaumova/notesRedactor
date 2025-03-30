@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notesRedactor/static/css/main.d9e646fb.css",
+    "main.js": "/notesRedactor/static/js/main.58fdfba9.js",
+    "index.html": "/notesRedactor/index.html",
+    "main.d9e646fb.css.map": "/notesRedactor/static/css/main.d9e646fb.css.map",
+    "main.58fdfba9.js.map": "/notesRedactor/static/js/main.58fdfba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9e646fb.css",
+    "static/js/main.58fdfba9.js"
+  ]
+}
